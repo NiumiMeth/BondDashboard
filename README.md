@@ -2,6 +2,8 @@
 
 > **Treasury Risk Intelligence Dashboard**
 
+**Live Dashboard:** [https://bondanalyticsdashboard.streamlit.app/](https://bondanalyticsdashboard.streamlit.app/)
+
 BondDashboard is a comprehensive Streamlit-powered dashboard for treasury and bond portfolio management. It provides analytics, risk assessment, liquidity analysis, yield curve monitoring, and actionable recommendations for decision intelligence.
 
 ## Key Features
