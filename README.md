@@ -36,31 +36,6 @@ BondDashboard/
 │   __pycache__/     # Python cache files
 ```
 
-## Setup Instructions
-
-1. **Clone the repository**
-   ```sh
-   git clone <your-repo-url>
-   cd BondDashboard
-   ```
-
-2. **Create and activate a virtual environment**
-   ```sh
-   python -m venv venv
-   venv\Scripts\activate  # On Windows
-   source venv/bin/activate  # On macOS/Linux
-   ```
-
-3. **Install dependencies**
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-4. **Run the dashboard**
-   ```sh
-   streamlit run app.py
-   ```
-
 ## Module Descriptions
 
 - **app.py:** Orchestrates the dashboard UI and navigation. Handles user input, file uploads, and displays analytics for each module.
